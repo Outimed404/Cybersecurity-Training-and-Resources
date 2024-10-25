@@ -12,7 +12,7 @@ These resources aim to deepen your understanding of key concepts, methodologies,
 - [Platforms](#platforms)
 - [How to Navigate](#how-to-navigate)
 - [Skills and Learning](#skills-and-learning)
-- [Courses and Tactics](#courses-and-tactics)
+- [Courses and Tactics](#offensive-security-and-tactics)
 - [Defensive Security](#defensive-security)
 
 ## Introduction
@@ -61,7 +61,7 @@ Through active participation in CTF challenges, I have developed a robust set of
 - **Continuous Improvement**: Regularly pursuing new challenges, courses, and certifications to stay at the forefront of the dynamic and ever-evolving cybersecurity landscape.
 - **Knowledge Sharing**: By documenting my learning projects and CTF experiences here on GitHub, I aim to contribute to the community and inspire others on their journey to mastering cybersecurity.
 
-## Courses and Tactics
+## offensive-security-and-tactics
 
 In addition to CTF write-ups, this section includes courses, guides, and tactics that cover various cybersecurity concepts and techniques. These resources are based on my learning from **TryHackMe** and other reputable online courses, aiming to deepen understanding and improve skills in different areas of security.
 
