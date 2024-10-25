@@ -2,7 +2,10 @@
 
 **This repository is new and currently under 🚧 construction 🚧. As I continue to grow in my knowledge and skills in cybersecurity, I will be regularly updating this collection of CTF (Capture The Flag) write-ups and related resources.**
 
-Welcome to my collection of CTF (Capture The Flag) write-ups, systematically categorized by platform and difficulty. These write-ups showcase my journey through various cybersecurity challenges, offering insights into my problem-solving approaches, methodologies, and the tools I use to tackle real-world security scenarios. This repository not only serves as a personal reference but also demonstrates my practical skills in cybersecurity, including vulnerability analysis, exploitation, and post-exploitation tactics.
+Welcome to my collection of CTF (Capture The Flag) write-ups and various courses covering essential topics in cybersecurity. These resources are systematically categorized by platform and difficulty, showcasing my journey through various cybersecurity challenges. They offer insights into my problem-solving approaches, methodologies, and the tools I use to tackle real-world security scenarios. This repository serves as both a personal reference and a demonstration of my practical skills in vulnerability analysis, exploitation, and post-exploitation tactics.
+
+These resources aim to deepen your understanding of key concepts, methodologies, and tactics, providing a well-rounded approach to learning in this dynamic field.
+
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -15,6 +18,7 @@ Welcome to my collection of CTF (Capture The Flag) write-ups, systematically cat
 ## Introduction
 
 As part of my commitment to continuous learning in the field of cybersecurity, I actively participate in hands-on training on platforms such as **Hack The Box (HTB)**, **TryHackMe (THM)**, and others. These platforms provide realistic environments that simulate real-world security challenges, allowing me to sharpen my skills in network security, penetration testing, and threat analysis. My achievements include ranking in the top 1% of participants on TryHackMe, which is a testament to my dedication and expertise in tackling complex scenarios.
+
 
 ## Platforms
 
