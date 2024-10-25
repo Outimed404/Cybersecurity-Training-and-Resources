@@ -1,18 +1,117 @@
-Welcome to my collection of CTF write-ups, categorized by platform and difficulty. 
+# CTF Write-Ups
+
+Welcome to my collection of CTF (Capture The Flag) write-ups, systematically categorized by platform and difficulty. These write-ups showcase my journey through various cybersecurity challenges, offering insights into my problem-solving approaches, methodologies, and the tools I use to tackle real-world security scenarios. This repository not only serves as a personal reference but also demonstrates my practical skills in cybersecurity, including vulnerability analysis, exploitation, and post-exploitation tactics.
 
 ## Table of Contents
+- [Introduction](#introduction)
 - [Platforms](#platforms)
 - [How to Navigate](#how-to-navigate)
+- [Skills and Learning](#skills-and-learning)
+- [Courses and Tactics](#courses-and-tactics)
+- [Defensive Security](#defensive-security)
+
+## Introduction
+
+As part of my commitment to continuous learning in the field of cybersecurity, I actively participate in hands-on training on platforms such as **Hack The Box (HTB)**, **TryHackMe (THM)**, and others. These platforms provide realistic environments that simulate real-world security challenges, allowing me to sharpen my skills in network security, penetration testing, and threat analysis. My achievements include ranking in the top 1% of participants on TryHackMe, which is a testament to my dedication and expertise in tackling complex scenarios.
 
 ## Platforms
-- [Hack The Box](./HackTheBox/)
-  - [Easy](./HackTheBox/Easy/)
-  - [Medium](./HackTheBox/Medium/)
-  - [Hard](./HackTheBox/Hard/)
-- [TryHackMe](./TryHackMe/)
-  - [Easy](./TryHackMe/Easy/)
-  - [Medium](./TryHackMe/Medium/)
-  - [Hard](./TryHackMe/Hard/)
+
+Below is an organized list of platforms where I have solved various challenges. Each platform section contains write-ups categorized by difficulty level:
+
+- **[Hack The Box](./HackTheBox/)**
+  - [Easy](./HackTheBox/Easy/): Beginner-friendly challenges that cover fundamental security concepts and basic penetration testing skills.
+  - [Medium](./HackTheBox/Medium/): Intermediate-level challenges requiring a deeper understanding of network protocols, web application security, and system exploitation.
+  - [Hard](./HackTheBox/Hard/): Advanced challenges testing a wide range of skills, including reverse engineering, advanced exploitation, and forensic analysis.
+
+- **[TryHackMe](./TryHackMe/)**
+  - [Easy](./TryHackMe/Easy/): Challenges designed for those starting in cybersecurity, covering basics such as information gathering, scanning, and simple exploitation.
+  - [Medium](./TryHackMe/Medium/): More complex scenarios that introduce intermediate concepts like privilege escalation, web attacks, and scripting.
+  - [Hard](./TryHackMe/Hard/): Intense challenges that simulate real-world attacks, requiring expertise in advanced penetration testing techniques, cryptography, and network analysis.
 
 ## How to Navigate
-Navigate through the directories to find write-ups based on the platform and difficulty level. Each write-up is clearly documented to guide you through the steps taken to solve the challenge.
+
+This repository is structured to make it easy for you to find specific write-ups based on the platform and difficulty level. To navigate:
+
+1. Choose the desired **platform** from the list above (e.g., Hack The Box, TryHackMe).
+2. Select the **difficulty level** (Easy, Medium, Hard).
+3. Open the write-up for the specific **challenge** you are interested in.
+
+Each write-up contains a step-by-step guide on how I approached the challenge, including explanations of the techniques and tools used, commands executed, and insights gained throughout the process.
+
+## Skills and Learning
+
+Through active participation in CTF challenges, I have developed a robust set of skills in various aspects of cybersecurity:
+
+### Practical Application
+- **Hands-On Experience**: Completing diverse labs and challenges across critical areas such as network security, penetration testing, and threat analysis.
+- **Problem-Solving**: Applying analytical thinking to dissect challenges and identify solutions in simulated attack scenarios, honing my ability to think like an attacker.
+
+### Skills Developed
+- **Proficiency with Cybersecurity Tools**: Gained expertise in using tools like **Nmap**, **Burp Suite**, **Metasploit**, **Wireshark**, and **John the Ripper** for effective vulnerability assessment and mitigation.
+- **Security Principles & Risk Management**: Developed a comprehensive understanding of key security concepts, including **risk assessment**, **incident response protocols**, and **secure coding practices**.
+- **Advanced Techniques**: Learned advanced techniques such as **buffer overflows**, **SQL injection**, **XSS (Cross-Site Scripting)**, **reverse engineering**, and **cryptographic attacks**.
+
+### Ongoing Learning
+- **Continuous Improvement**: Regularly pursuing new challenges, courses, and certifications to stay at the forefront of the dynamic and ever-evolving cybersecurity landscape.
+- **Knowledge Sharing**: By documenting my learning projects and CTF experiences here on GitHub, I aim to contribute to the community and inspire others on their journey to mastering cybersecurity.
+
+## Courses and Tactics
+
+In addition to CTF write-ups, this section includes courses, guides, and tactics that cover various cybersecurity concepts and techniques. These resources aim to deepen understanding and improve skills in different areas of security.
+
+### [Penetration Testing Basics](./Courses/PenetrationTestingBasics/)
+- **Description**: A beginner-friendly guide to understanding penetration testing, covering the essential tools, steps, and methodologies.
+- **Topics Covered**:
+  - Information Gathering
+  - Vulnerability Analysis
+  - Exploitation
+  - Post-Exploitation
+
+### [Web Application Security](./Courses/WebApplicationSecurity/)
+- **Description**: A comprehensive course on web application vulnerabilities, focusing on common attacks such as SQL Injection, XSS, and CSRF, along with techniques to exploit and mitigate them.
+- **Topics Covered**:
+  - SQL Injection
+  - Cross-Site Scripting (XSS)
+  - Cross-Site Request Forgery (CSRF)
+  - Secure Coding Practices
+
+### [Network Security Fundamentals](./Courses/NetworkSecurityFundamentals/)
+- **Description**: Detailed lessons on network protocols, scanning, and securing networks against various types of attacks.
+- **Topics Covered**:
+  - Network Scanning Techniques
+  - Packet Analysis
+  - Firewall and IDS/IPS
+  - Network Hardening
+
+### [Advanced Exploitation Techniques](./Courses/AdvancedExploitation/)
+- **Description**: An advanced guide to exploitation tactics, including buffer overflows, privilege escalation, and reverse engineering.
+- **Topics Covered**:
+  - Buffer Overflows
+  - Reverse Engineering
+  - Shellcoding
+  - Privilege Escalation
+
+## Defensive Security
+
+In addition to offensive tactics, this repository includes resources and courses on defensive security strategies, focusing on how to detect, respond to, and mitigate threats. These courses provide insights into the workings of a Security Operations Center (SOC) and the tools and techniques used to protect systems from attacks.
+
+### [SOC Fundamentals](./Courses/SOCFundamentals/)
+- **Description**: A guide to understanding the basics of a Security Operations Center, covering the roles, responsibilities, and core processes involved in managing security incidents.
+- **Topics Covered**:
+  - Introduction to SOC Operations
+  - Security Information and Event Management (SIEM)
+  - Incident Response and Triage
+  - Threat Intelligence and Monitoring
+
+### [Threat Detection & Analysis](./Courses/ThreatDetection/)
+- **Description**: Lessons on how to detect and analyze security threats using various tools and methodologies, including log analysis, traffic monitoring, and threat hunting.
+- **Topics Covered**:
+  - Log Analysis (ELK Stack, Splunk)
+  - Network Traffic Analysis (Wireshark, Zeek)
+  - Threat Hunting Techniques
+  - Malware Analysis Basics
+
+### [Incident Response and Handling](./Courses/IncidentResponse/)
+- **Description**: A course covering the essential steps of incident response, from identification and containment to eradication and recovery, along with best practices for managing incidents effectively.
+- **Topics Covered**:
+  - Incident Response Frameworks (N
