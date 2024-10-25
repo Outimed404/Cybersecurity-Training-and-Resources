@@ -33,8 +33,8 @@ Bruteforce a website's login with Hydra, identify and use a public exploit, then
   ![HackParkScreenShot1](https://github.com/user-attachments/assets/d05c8d98-3cea-470e-be76-f5627615299d)
 
 2. **Identify the Clown on the Homepage:**
-   By examining the source code of the website, I found a clown image link:
-   [Clown Image](http://10.10.144.62/image.axd?picture=/26572c3a-0e51-4a9f-9049-b64e730ca75d.jpg). I performed a reverse image search using Google and discovered that the clown's name is **Pennywise**.
+   By examining the source code of the website, I found a clown image link locate at: http://<IP>image.axd?picture=/26572c3a-0e51-4a9f-9049-b64e730ca75d.jpg
+   I performed a reverse image search using Google and discovered that the clown's name is **Pennywise**.
 ![HackParkScreen2 0](https://github.com/user-attachments/assets/db3a1e3b-7f27-4fc0-8a8d-0a085848e704)
 ![HackParkScreen2](https://github.com/user-attachments/assets/063521ef-9b36-47e7-a01b-e9e8f5cca08e)
 
