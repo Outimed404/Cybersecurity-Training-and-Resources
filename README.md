@@ -1,4 +1,4 @@
-# CTF Write-Ups
+# Cybersecurity-Training-and-Resources
 
 **This repository is new and currently under 🚧 construction 🚧. As I continue to grow in my knowledge and skills in cybersecurity, I will be regularly updating this collection of CTF (Capture The Flag) write-ups and related resources.**
 
