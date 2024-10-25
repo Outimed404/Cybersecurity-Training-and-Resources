@@ -1,5 +1,7 @@
 # CTF Write-Ups
 
+**This repository is new and currently under 🚧 construction 🚧. As I continue to grow in my knowledge and skills in cybersecurity, I will be regularly updating this collection of CTF (Capture The Flag) write-ups and related resources.**
+
 Welcome to my collection of CTF (Capture The Flag) write-ups, systematically categorized by platform and difficulty. These write-ups showcase my journey through various cybersecurity challenges, offering insights into my problem-solving approaches, methodologies, and the tools I use to tackle real-world security scenarios. This repository not only serves as a personal reference but also demonstrates my practical skills in cybersecurity, including vulnerability analysis, exploitation, and post-exploitation tactics.
 
 ## Table of Contents
@@ -57,7 +59,7 @@ Through active participation in CTF challenges, I have developed a robust set of
 
 ## Courses and Tactics
 
-In addition to CTF write-ups, this section includes courses, guides, and tactics that cover various cybersecurity concepts and techniques. These resources aim to deepen understanding and improve skills in different areas of security.
+In addition to CTF write-ups, this section includes courses, guides, and tactics that cover various cybersecurity concepts and techniques. These resources are based on my learning from **TryHackMe** and other reputable online courses, aiming to deepen understanding and improve skills in different areas of security.
 
 ### [Penetration Testing Basics](./Courses/PenetrationTestingBasics/)
 - **Description**: A beginner-friendly guide to understanding penetration testing, covering the essential tools, steps, and methodologies.
@@ -93,7 +95,7 @@ In addition to CTF write-ups, this section includes courses, guides, and tactics
 
 ## Defensive Security
 
-In addition to offensive tactics, this repository includes resources and courses on defensive security strategies, focusing on how to detect, respond to, and mitigate threats. These courses provide insights into the workings of a Security Operations Center (SOC) and the tools and techniques used to protect systems from attacks.
+In addition to offensive tactics, this repository includes resources and courses on defensive security strategies, focusing on how to detect, respond to, and mitigate threats. These courses are based on my learning from **TryHackMe** and other online resources, providing insights into the workings of a Security Operations Center (SOC) and the tools and techniques used to protect systems from attacks.
 
 ### [SOC Fundamentals](./Courses/SOCFundamentals/)
 - **Description**: A guide to understanding the basics of a Security Operations Center, covering the roles, responsibilities, and core processes involved in managing security incidents.
@@ -114,4 +116,17 @@ In addition to offensive tactics, this repository includes resources and courses
 ### [Incident Response and Handling](./Courses/IncidentResponse/)
 - **Description**: A course covering the essential steps of incident response, from identification and containment to eradication and recovery, along with best practices for managing incidents effectively.
 - **Topics Covered**:
-  - Incident Response Frameworks (N
+  - Incident Response Frameworks (NIST, SANS)
+  - Incident Detection and Reporting
+  - Containment, Eradication, and Recovery
+  - Post-Incident Analysis and Reporting
+
+### [SOC Tools & Technologies](./Courses/SOCTools/)
+- **Description**: Overview of various tools commonly used in SOC environments, including SIEM solutions, endpoint detection, and response systems, as well as network monitoring tools.
+- **Topics Covered**:
+  - SIEM Solutions (Splunk, IBM QRadar)
+  - Endpoint Detection & Response (EDR) Tools
+  - Intrusion Detection/Prevention Systems (IDS/IPS)
+  - Security Orchestration, Automation, and Response (SOAR)
+
+Explore this repository to see detailed write-ups of the challenges I have completed, and feel free to reach out if you have any questions or suggestions. If you're interested in my broader skill set and experience, please check out my [portfolio website](https://hadriencyber.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hadrien-abitbol-3195b32a3/).
