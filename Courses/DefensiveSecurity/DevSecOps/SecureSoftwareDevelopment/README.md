@@ -77,7 +77,7 @@ building trust
 
 # The Infinite Loop
 
-![InifiniteLoopImage](/TheInfiniteLoop.jpeg)
+![TheInfiniteLoop](https://github.com/user-attachments/assets/02eefe0e-cd88-47b4-b967-08899b3a265c)
 
 
 The **infinite loop model** of DevOps is a visual representation of the continuous, iterative nature of DevOps processes. It emphasizes that DevOps is not a linear process but rather a cycle of ongoing collaboration, integration, and improvement. The infinite loop model highlights the core stages of DevOps, which include development, testing, deployment, and operations, all feeding into each other in a loop that enables continuous delivery, integration, and improvement.
