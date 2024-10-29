@@ -5,7 +5,7 @@ The history of **DevOps** is rooted in addressing the limitations of traditional
 
 ---
 
-## 1. Traditional Development Models: Waterfall and Agile
+## Task 1. Traditional Development Models: Waterfall and Agile
 
 ### **Waterfall Model (1970s-1990s)**
    - **Structure**: The Waterfall model is a linear, sequential approach to software development. It consists of distinct phases, such as Requirements, Design, Implementation, Testing, and Maintenance.
@@ -63,7 +63,7 @@ These practices helped to break down silos between development and operations te
 
 The evolution from Waterfall to Agile and then to DevOps represents a shift toward greater collaboration, automation, and adaptability in software development. DevOps addresses the gaps left by Agile by integrating operations into the development process, and DevSecOps further refines this model by embedding security from the beginning. Together, these changes have paved the way for modern, agile, and secure software development practices.
 
-## DevOps: A new Hope
+## Task2: DevOps: A new Hope
 
 ### What methodology relies on self-organising teams that focus on constructive collaboration? 
 Agile
@@ -75,7 +75,7 @@ Waterfall
 building trust
 
 
-# The Infinite Loop
+## Task3:The Infinite Loop
 
 ![TheInfiniteLoop](https://github.com/user-attachments/assets/02eefe0e-cd88-47b4-b967-08899b3a265c)
 
@@ -118,7 +118,7 @@ Monitoring
 IaC
 
 
-# Shifting Left in DevSecOps
+## Task 4: Shifting Left in DevSecOps
 
 Shifting left in the context of DevOps refers to the practice of bringing tasks and processes that traditionally occur later in the development cycle to earlier stages. This approach emphasizes proactive measures to identify and address issues before they escalate into larger problems.
 
@@ -171,7 +171,7 @@ shift left
 DevSecOps
 
 
-# DevSecOps SecurityStrikesBacks
+## Task 5: DevSecOps SecurityStrikesBacks
 
 DevSecOps integrates security as a shared responsibility within a culture-driven development model, normalizing security as part of daily operations.
 
@@ -198,7 +198,7 @@ Lack of visibility
 ### What DevSecOps challenge stems from needlessly overcomplicated security processes?
 Stringent Processes
 
-# DevSecOps Culture
+## Task 6: DevSecOps Culture
 
 ## Promote Team Autonomy
 
@@ -225,7 +225,7 @@ Visibility and Transparency
 ### What are key factors to successfully instill security in the development process by accounting for flexibility?
 Understanding and Empathy
 
-# Exercice: Fuel And Trouble
+## Task 7: Exercice: Fuel And Trouble
 
 ## Comic 1
 Some tests have passed to go to Testooine, which was the initial decision by x fighter dev. It is decided that it is the next planet to visit.
