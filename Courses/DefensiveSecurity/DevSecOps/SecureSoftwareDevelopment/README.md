@@ -63,7 +63,7 @@ These practices helped to break down silos between development and operations te
 
 The evolution from Waterfall to Agile and then to DevOps represents a shift toward greater collaboration, automation, and adaptability in software development. DevOps addresses the gaps left by Agile by integrating operations into the development process, and DevSecOps further refines this model by embedding security from the beginning. Together, these changes have paved the way for modern, agile, and secure software development practices.
 
-## Task2: DevOps: A new Hope
+## Task 2: DevOps: A new Hope
 
 ### What methodology relies on self-organising teams that focus on constructive collaboration? 
 Agile
@@ -75,7 +75,7 @@ Waterfall
 building trust
 
 
-## Task3:The Infinite Loop
+## Task 3:The Infinite Loop
 
 ![TheInfiniteLoop](https://github.com/user-attachments/assets/02eefe0e-cd88-47b4-b967-08899b3a265c)
 
