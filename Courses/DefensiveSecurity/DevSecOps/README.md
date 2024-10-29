@@ -5,7 +5,7 @@ Welcome to the **DevSecOps Learning Path** repository! This repository organizes
 
 ---
 
-## 📚 Course List on TryHackMe
+## 📚 Course topic from [TryHackMe](https://tryhackme.com/r/path/outline/devsecops)
 
 The following folders are organized in the recommended learning order:
 
