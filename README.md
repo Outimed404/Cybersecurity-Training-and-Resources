@@ -125,7 +125,7 @@ In addition to offensive tactics, this repository includes resources and courses
   - Containment, Eradication, and Recovery
   - Post-Incident Analysis and Reporting
 
-### [SOC Tools & Technologies](./Courses/SOCTools/)
+### [SOC Tools & Technologies](/Courses/SOCTools/)
 - **Description**: Overview of various tools commonly used in SOC environments, including SIEM solutions, endpoint detection, and response systems, as well as network monitoring tools.
 - **Topics Covered**:
   - SIEM Solutions (Splunk, IBM QRadar)
@@ -133,7 +133,7 @@ In addition to offensive tactics, this repository includes resources and courses
   - Intrusion Detection/Prevention Systems (IDS/IPS)
   - Security Orchestration, Automation, and Response (SOAR)
  
-### [DevSecOps Tools & Technologies](./Courses/DevSecOps/)
+### [DevSecOps Tools & Technologies](/Courses/DefensiveSecurity/DevSecOps/README.md)
 - **Description**: A comprehensive overview of the tools and technologies essential for integrating security practices into the DevOps pipeline, ensuring continuous security throughout the software development lifecycle.
 - **Topics Covered**:
   - **Static Application Security Testing (SAST)**: Tools for analyzing source code for vulnerabilities before execution (e.g., SonarQube, Fortify).
