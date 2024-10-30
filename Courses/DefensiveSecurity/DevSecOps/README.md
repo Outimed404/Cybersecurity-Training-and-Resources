@@ -9,7 +9,7 @@ Welcome to the **DevSecOps Learning Path** repository! This repository organizes
 
 The following folders are organized in the recommended learning order:
 
-### 1. [SecureSoftwareDevelopment](Cybersecurity-Training-and-Resources/Courses/DefensiveSecurity/DevSecOps/SecureSoftwareDevelopment/README.md)
+### 1. [SecureSoftwareDevelopment](/Courses/DefensiveSecurity/DevSecOps/SecureSoftwareDevelopment/README.md)
 - **Description**: Dive into the foundational principles of secure software development. Learn how to write, test, and maintain secure code by following best practices and incorporating security from the earliest stages of the Software Development Life Cycle (SDLC). Topics include threat modeling, secure coding principles, and application security basics.
 - **TryHackMe Module**: Secure Software Development
 
