@@ -101,6 +101,16 @@ In addition to CTF write-ups, this section includes courses, guides, and tactics
 
 In addition to offensive tactics, this repository includes resources and courses on defensive security strategies, focusing on how to detect, respond to, and mitigate threats. These courses are based on my learning from **TryHackMe** and other online resources, providing insights into the workings of a Security Operations Center (SOC) and the tools and techniques used to protect systems from attacks.
 
+
+### [DevSecOps Tools & Technologies](/Courses/DefensiveSecurity/DevSecOps/README.md)
+- **Description**: A comprehensive overview of the tools and technologies essential for integrating security practices into the DevOps pipeline, ensuring continuous security throughout the software development lifecycle.
+- **Topics Covered**:
+  - **Static Application Security Testing (SAST)**: Tools for analyzing source code for vulnerabilities before execution (e.g., SonarQube, Fortify).
+  - **Dynamic Application Security Testing (DAST)**: Tools for identifying security vulnerabilities during runtime (e.g., OWASP ZAP, Burp Suite).
+  - **Infrastructure as Code (IaC) Security**: Tools for securing cloud configurations and infrastructure code (e.g., Terraform, AWS Config).
+  - **Container Security**: Solutions for securing containerized applications and environments (e.g., Aqua Security, Twistlock).
+  - **Secrets Management**: Tools for managing and securing sensitive data such as API keys and passwords (e.g., HashiCorp Vault, AWS Secrets Manager).
+  
 ### [SOC Fundamentals](./Courses/SOCFundamentals/)
 - **Description**: A guide to understanding the basics of a Security Operations Center, covering the roles, responsibilities, and core processes involved in managing security incidents.
 - **Topics Covered**:
@@ -133,14 +143,5 @@ In addition to offensive tactics, this repository includes resources and courses
   - Intrusion Detection/Prevention Systems (IDS/IPS)
   - Security Orchestration, Automation, and Response (SOAR)
  
-### [DevSecOps Tools & Technologies](/Courses/DefensiveSecurity/DevSecOps/README.md)
-- **Description**: A comprehensive overview of the tools and technologies essential for integrating security practices into the DevOps pipeline, ensuring continuous security throughout the software development lifecycle.
-- **Topics Covered**:
-  - **Static Application Security Testing (SAST)**: Tools for analyzing source code for vulnerabilities before execution (e.g., SonarQube, Fortify).
-  - **Dynamic Application Security Testing (DAST)**: Tools for identifying security vulnerabilities during runtime (e.g., OWASP ZAP, Burp Suite).
-  - **Infrastructure as Code (IaC) Security**: Tools for securing cloud configurations and infrastructure code (e.g., Terraform, AWS Config).
-  - **Container Security**: Solutions for securing containerized applications and environments (e.g., Aqua Security, Twistlock).
-  - **Secrets Management**: Tools for managing and securing sensitive data such as API keys and passwords (e.g., HashiCorp Vault, AWS Secrets Manager).
-  
 
 Explore this repository to see detailed write-ups of the challenges I have completed, and feel free to reach out if you have any questions or suggestions. If you're interested in my broader skill set and experience, please check out my [portfolio website](https://hadriencyber.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hadrien-abitbol-3195b32a3/).
