@@ -241,10 +241,11 @@ To maximize security, it’s essential to implement each of these tools at diffe
 By using a combination of these tools, organizations can better secure their applications across the SDLC, improving resilience against attacks and reducing security risks in production.
 
 ###  Is it recommended to use SAST analysis at the beginning of the SDLC? (y/n)
-
+y
 ### Which type of code analysis uses the black-box method?
-
+DAST
 ### Which type of code analysis uses the white-box method?
+SAST
 
 # Task 7 : Security Assessment
 
