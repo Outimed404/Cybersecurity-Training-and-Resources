@@ -31,7 +31,6 @@ TwoMillion is an Easy difficulty Linux box that was released to celebrate reachi
 - **SSH**: After retrieving credentials, SSH was used to establish a connection to the target machine as the `admin` user, furthering exploitation efforts and allowing for the final privilege escalation steps to achieve root access.
 
 ## Step-by-Step Solution
-## Step-by-Step Solution
 **IP Addresses:**
 - My IP address: 10.10.15.11
 - Target machine IP address: 10.10.10.245
