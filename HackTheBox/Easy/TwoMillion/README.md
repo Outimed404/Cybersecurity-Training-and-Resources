@@ -99,7 +99,6 @@ base64
 ![2MSsh](https://github.com/user-attachments/assets/4c5629b9-945f-453b-9e85-0ed55c1ec7f9)
 
 
-### ![[2MSsh.png]]
 
 
 Task 9 : User flag
