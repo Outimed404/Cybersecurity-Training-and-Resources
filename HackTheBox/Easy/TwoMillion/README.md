@@ -51,11 +51,11 @@ inviteapi.min.js
 ![2MInvitePath](https://github.com/user-attachments/assets/96dfc556-5049-49bc-adf0-9458bc654bff)
 
 
+![2MSOurceCodeInviteJS](https://github.com/user-attachments/assets/bb685e78-c703-4615-b283-61d979ddbec5)
+
 ### Task 3: What JavaScript function on the invite page returns the first hint about how to get an invite code? Don't include () in the answer.
 
 makeInviteCode
-
-![2MSOurceCodeInviteJS](https://github.com/user-attachments/assets/bb685e78-c703-4615-b283-61d979ddbec5)
 ![2MObfuscatedCode](https://github.com/user-attachments/assets/f82adcd9-e5b8-4328-bc64-74e9d72ec21a)
 ![2MUsingDE4JS](https://github.com/user-attachments/assets/4b5a07eb-7708-413f-9586-b98205367037)
 
