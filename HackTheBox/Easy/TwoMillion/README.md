@@ -66,8 +66,8 @@ makeInviteCode
 base64
 
 ![2MUsingBurpForChaginginPOST](https://github.com/user-attachments/assets/a88b9c7f-da59-4189-af7a-f5d3a715fc41)
-![2MGeneratedInviteCode](https://github.com/user-attachments/assets/91ab5e54-ee7b-4aa2-9a1a-ed4c0d29fbf8)
 ![2MUnROT13](https://github.com/user-attachments/assets/ca965cbd-4d44-4b7b-b5ba-313f4d9bbeb1)
+![2MGeneratedInviteCode](https://github.com/user-attachments/assets/91ab5e54-ee7b-4aa2-9a1a-ed4c0d29fbf8)
 ![2mUnbased64](https://github.com/user-attachments/assets/f4d80776-1fdb-4712-a86d-2cd0c62552ce)
 ![2MCreateAUser](https://github.com/user-attachments/assets/beaebed9-fa03-41ff-9b1e-e2cbc30fcf0f)
 ![2MDashBoard](https://github.com/user-attachments/assets/7fb2bdba-86de-4720-b108-f50f5da7dc7a)
