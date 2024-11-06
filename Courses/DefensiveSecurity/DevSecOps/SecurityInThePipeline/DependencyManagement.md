@@ -296,7 +296,8 @@ There are a couple of things that should be kept in mind:
 
 Let's look at practically performing a dependency confusion attack in the next task.
 
-![[InsertFileHere]]
+![32b158ecec6d8ed7fbad6d97630cc414](https://github.com/user-attachments/assets/9cc70e4c-249e-4ac6-9fb4-8d0389bc84a1)
+
 
 
 ### What is the name of a common supply chain attack that relies on users mistyping the names of packages that they wish to install?
