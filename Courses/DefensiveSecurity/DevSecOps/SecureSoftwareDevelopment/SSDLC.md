@@ -351,7 +351,7 @@ The OWASP S-SDLC emphasizes building "security quality gates" throughout the dev
 - **Software Assurance Maturity Model (SAMM)**: An open framework to help organizations formulate and implement tailored software security strategies.
 - **Building Security In Maturity Model (BSIMM)**: A study of real-world software security initiatives that reflects the current state of software security, serving as a comparison for organizations to assess their security posture.
 
-For further information, you can explore the [OWASP SAMM](https://www.owasp.org/index.php/Software_Assurance_Maturity_Model) and [BSIMM](https://www.bsimm.org/) links.
+For further information, you can explore the [OWASP SAMM](https://owasp.org/www-project-samm/) and [BSIMM](https://www.bsimm.org/) links.
 
 ### What methodology follows a set of mandatory procedures embedded in the SDLC?
 Microsoft SDL
