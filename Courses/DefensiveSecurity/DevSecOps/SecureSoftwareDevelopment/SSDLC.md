@@ -4,9 +4,9 @@ This room focuses on the Secure Software Development Lifecycle (S-SDLC), its pro
 
 ## Learning objectives
 
-### 1. Understand  what SSDLC is and why it's important
-### 2. Learn about the processes of SSDLC
-### 3. Understand the Secure SDLC methodologies
+1. Understand  what SSDLC is and why it's important
+2. Learn about the processes of SSDLC
+3. Understand the Secure SDLC methodologies
 
 # Task 2 : What is SSDLC?
 
