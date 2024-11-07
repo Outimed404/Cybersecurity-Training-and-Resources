@@ -466,7 +466,10 @@ false positive
 9
 
 # Task 6 : SAST in the Development Cycle
-![[Imagehere]]
+![sast](https://github.com/user-attachments/assets/72e5e3d1-f0bb-4ce2-a8f4-8d47b90061e1)
+
+
+
 SAST is one of the first tools to appear during the development lifecycle. It is often implemented during the coding stage, as there's no need to have a functional application to use it.
 
 ## SAST in the Development Cycle
