@@ -9,15 +9,15 @@ Welcome to the **DevSecOps Learning Path** repository! This repository organizes
 
 The following folders are organized in the recommended learning order:
 
-### 1. [SecureSoftwareDevelopment](/Courses/DefensiveSecurity/DevSecOps/SecureSoftwareDevelopment/README.md)
+### [1. SecureSoftwareDevelopment](/Courses/DefensiveSecurity/DevSecOps/SecureSoftwareDevelopment/README.md)
 - **Description**: Dive into the foundational principles of secure software development. Learn how to write, test, and maintain secure code by following best practices and incorporating security from the earliest stages of the Software Development Life Cycle (SDLC). Topics include threat modeling, secure coding principles, and application security basics.
 - **TryHackMe Module**: Secure Software Development
 
-### 2. [SecurityOfThePipeline](/Courses/DefensiveSecurity/DevSecOps/SecurityOfThePipeline/README.md)
+### [2. SecurityOfThePipeline](/Courses/DefensiveSecurity/DevSecOps/SecurityOfThePipeline/README.md)
 - **Description**: In this section, explore the importance of securing the entire CI/CD pipeline. Learn how to assess and mitigate security risks associated with build, testing, and deployment phases. This section covers tools, configurations, and best practices to ensure that your pipeline is resilient against attacks.
 - **TryHackMe Module**: Security of the Pipeline
 
-### 3. SecurityInThePipeline  
+### [3. SecurityInThePipeline](/Courses/DefensiveSecurity/DevSecOps/SecurityInThePipeline/README.md)
 - **Description**: Building on the previous topic, Security in the Pipeline focuses on incorporating security testing and automated checks directly into the CI/CD process. Understand how to set up automated scans, vulnerability assessments, and runtime security checks to catch issues before they reach production.
 - **TryHackMe Module**: Security in the Pipeline
 
