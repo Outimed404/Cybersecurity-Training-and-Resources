@@ -163,8 +163,8 @@ Namespaces help achieve isolation in containerisation by segregating resources b
 ### What command can we use to view a list of running processes?
 ps aux
 # Task 7 : Pratical
+![ImageDocker](https://github.com/user-attachments/assets/5d121bbe-b164-4e97-b1c9-3004a8c71a5c)
 
-ImageDocker
 
 ### Containerise the applications in the static site. What is the flag? 
 THM{APPLICATION_SHIPPED}
