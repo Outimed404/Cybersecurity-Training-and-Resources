@@ -53,38 +53,51 @@ On the text above, we got a clue "emergency command override" is 100375.
 100375
 ### What is the special order number?
 After some analysis on the code given for this challenge, we can found a way to call the api:
+![Mother1](https://github.com/user-attachments/assets/3258cc71-6732-4093-9531-56af4b971808)
 
-image1
-image2
+![Mother2](https://github.com/user-attachments/assets/abd72ab9-e154-4191-95cc-e104e36004f3)
+
 
 937
 ### What is the hidden flag in the Nostromo route ?
 
-image3
+![Mother3](https://github.com/user-attachments/assets/7b13cf61-479a-4c8f-9575-8d4ad25c4611)
+
+
 Flag{X3n0M0Rph}
 ### What is the name of the Science Officier with permissions ?
 
 We can unclock the name of the Science Officier if we are staying on the home page and performing the two past api called in a limited timed. 
 
-image4
+![Mother4](https://github.com/user-attachments/assets/68c1041b-9e2c-4e93-9aa7-c117bd55b93f)
+
+
 Ash
 ### What are the contents of the classified "Flag" box ?
 For this question I found two ways to get the flag. 
 The first one is on the webpage :
-image 5.1
+
+![Mother5 1](https://github.com/user-attachments/assets/ac7dae7a-572b-47d5-8e3c-8cba63f4ff1e)
+
 
 The second one is looking a bit closer to the javascript code located on the page:
-image 5.2.1
-5.2.2
-5.2.3
+![Mother5 2 1](https://github.com/user-attachments/assets/dce068f0-fa9f-40f8-90d6-30d2a8ac22db)
+![Mother5 2 2](https://github.com/user-attachments/assets/26d08977-7755-41f5-81d5-37259c030170)
+![Mother5 2 3](https://github.com/user-attachments/assets/7f4c64c8-c477-4106-8a1b-0252391fbbcf)
+
+
 
 THM_FLAG{0RD3R_937}
 
 ### Where is Mother's secret ?
 To find the location of the Mother's secret, I made an api call using burp:
 
-image 6
+![Mother6](https://github.com/user-attachments/assets/3af47902-5857-439f-a848-5927dbb71ad2)
+
+/opt/m0th3r
 
 ### What is Mother's secret ?
 After finding the location, I edited the api request and I get the flag in response:
-image7
+![Mother7](https://github.com/user-attachments/assets/99fb4371-4282-4bb6-9257-d1fbbc265a1b)
+
+Flag{Ensure_return_of_organism_meow_meow!}
