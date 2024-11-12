@@ -27,7 +27,7 @@ DAST provides a means to assess an application’s security by simulating real-w
 - Case studies demonstrating the identification of runtime vulnerabilities, such as SQL injection and cross-site scripting (XSS).
 - Best practices for scheduling and automating DAST scans to align with deployment cycles.
 
-### 4. **[Mother's Secret](MothersSecret.md)**
+### 4. **[Mother's Secret](MotherSecret.md)**
 This module delves into more advanced concepts focusing on protecting sensitive information and secrets within your pipeline. Key topics include:
 - An introduction to secrets management and why it is essential.
 - Best practices for securely handling environment variables and API keys.
