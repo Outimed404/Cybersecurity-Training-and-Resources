@@ -106,7 +106,7 @@ Kubernetes is a powerful container orchestration platform, but to truly apprecia
 
 ### Diagram: Pod Structure
 (A diagram here would depict a pod containing one or more containers with shared storage and network.)
-
+![Alt text](https://tryhackme-images.s3.amazonaws.com/user-uploads/6228f0d4ca8e57005149c3e3/room-content/98b54b6b8427fae556be0cdd516b9e36.svg)
 ## 2. **Kubernetes Nodes**
 Nodes are the infrastructure on which Kubernetes runs workloads. They can be **virtual or physical machines** and house all the services needed to manage and run pods.
 
