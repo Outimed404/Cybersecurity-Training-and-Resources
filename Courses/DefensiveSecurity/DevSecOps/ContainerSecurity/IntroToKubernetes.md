@@ -105,8 +105,7 @@ Kubernetes is a powerful container orchestration platform, but to truly apprecia
 - **Role in Scalability**: Pods act as the unit of replication, so scaling a workload involves increasing the number of pods.
 
 ### Diagram: Pod Structure
-(A diagram here would depict a pod containing one or more containers with shared storage and network.)
-![Alt text](https://tryhackme-images.s3.amazonaws.com/user-uploads/6228f0d4ca8e57005149c3e3/room-content/98b54b6b8427fae556be0cdd516b9e36.svg)
+![PodStructure](https://tryhackme-images.s3.amazonaws.com/user-uploads/6228f0d4ca8e57005149c3e3/room-content/98b54b6b8427fae556be0cdd516b9e36.svg)
 ## 2. **Kubernetes Nodes**
 Nodes are the infrastructure on which Kubernetes runs workloads. They can be **virtual or physical machines** and house all the services needed to manage and run pods.
 
@@ -139,6 +138,7 @@ The control plane is essential for managing the cluster. It ensures the cluster 
 
 ### Diagram: Control Plane Architecture
 (A diagram illustrating these components interacting within the control plane.)
+![ControlPlaneArch](https://tryhackme-images.s3.amazonaws.com/user-uploads/6228f0d4ca8e57005149c3e3/room-content/84f898f84e80373f4a4a34e1f658d914.svg)
 
 ## 5. **Kubernetes Worker Node**
 Worker nodes execute the workloads by running pods. Each worker node includes several critical components:
@@ -156,7 +156,7 @@ Worker nodes execute the workloads by running pods. Each worker node includes se
 
 ### Diagram: Worker Node Structure
 (A diagram showing Kubelet, Kube-proxy, and the container runtime on a worker node.)
-
+![WorkerNodeStruc](https://tryhackme-images.s3.amazonaws.com/user-uploads/6228f0d4ca8e57005149c3e3/room-content/1bf22d1f65ab408e71d15d5049d11129.svg)
 ## 6. **Communication Paths**
 - **Control Plane to Nodes**:
   - Communication between the control plane and worker nodes occurs through well-defined paths to manage pod specifications, health checks, and workload distribution.
@@ -169,8 +169,8 @@ Worker nodes execute the workloads by running pods. Each worker node includes se
 A **Kubernetes cluster** functions by orchestrating pods within nodes using the control plane's guidance. The control plane makes decisions and delegates tasks, while worker nodes execute these tasks to maintain the desired state of the cluster. This cohesive interaction enables Kubernetes to provide high availability, scalability, and flexibility in deploying and managing containerized applications.
 
 **Visual Summary**: A comprehensive diagram here would show the complete Kubernetes architecture, highlighting the relationship between the control plane, worker nodes, and their components.
-
 ---
+![VisualSummary](https://tryhackme-images.s3.amazonaws.com/user-uploads/6228f0d4ca8e57005149c3e3/room-content/1eba5a686238be009bc802dd419a09c8.svg)
 
 Understanding these elements gives insight into how Kubernetes ensures smooth, reliable, and scalable management of containerized applications in DevSecOps environments.
 
