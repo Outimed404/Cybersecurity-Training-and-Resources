@@ -21,7 +21,7 @@ The following folders are organized in the recommended learning order:
 - **Description**: Building on the previous topic, Security in the Pipeline focuses on incorporating security testing and automated checks directly into the CI/CD process. Understand how to set up automated scans, vulnerability assessments, and runtime security checks to catch issues before they reach production.
 - **TryHackMe Module**: Security in the Pipeline
 
-### 4. ContainerSecurity  
+### 4. ContainerSecurity(/Courses/DefensiveSecurity/DevSecOps/ContainerSecurity/README.md)  
 - **Description**: As containers play a significant role in modern DevSecOps environments, this section provides a detailed look at container security practices. Learn how to secure container images, handle vulnerabilities, and manage secure configurations to protect containerized applications and services.
 - **TryHackMe Module**: Container Security
 
