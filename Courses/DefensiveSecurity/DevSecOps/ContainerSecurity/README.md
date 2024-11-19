@@ -4,15 +4,13 @@ Container security is a critical aspect of modern software development and deplo
 
 In this repository, you will find several key documents that provide a deeper understanding of container security, containerization, and the tools used to enhance container security:
 
-- **[Updated Introduction to Containerization](UpdateIntroToContainerisation.md)**: This updated version offers additional insights into the evolving landscape of containerization technologies and their impact on security.
+- **[Introduction to Containerization](IntroToContainerisation.md)**: This document provides an overview of containerization, explaining what containers are, how they work, and why they are used in modern development workflows.
   
 - **[Introduction to Docker](IntroToDocker.md)**: This file introduces Docker, the most widely used containerization platform, and covers its architecture, features, and security considerations.
 
 - **[Introduction to Kubernetes](IntroToKubernetes.md)**: This document provides an overview of Kubernetes, the container orchestration platform, and explains how it manages containerized applications at scale, along with associated security concerns.
 
 - **[Container Vulnerabilities](ContainerVulnerabilities.md)**: This file explores common container vulnerabilities, how they can be exploited, and strategies for mitigating them.
-
-- **[Introduction to Containerization](IntroToContainerisation.md)**: This document provides an overview of containerization, explaining what containers are, how they work, and why they are used in modern development workflows.
 
 - **[Container Hardening](ContainerHardening.md)**: This document discusses various strategies and best practices for hardening containers, ensuring that they are secure from potential threats.
 
