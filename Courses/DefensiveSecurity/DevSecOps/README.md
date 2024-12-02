@@ -25,7 +25,7 @@ The following folders are organized in the recommended learning order:
 - **Description**: As containers play a significant role in modern DevSecOps environments, this section provides a detailed look at container security practices. Learn how to secure container images, handle vulnerabilities, and manage secure configurations to protect containerized applications and services.
 - **TryHackMe Module**: Container Security
 
-### 5. InfrastructureAsCode  
+### [5. InfrastructureAsCode](/Courses/DefensiveSecurity/DevSecOps/InfrastructureAsCode/README.md)  
 - **Description**: Infrastructure as Code (IaC) allows teams to define and manage infrastructure through code. This section covers best practices for writing, securing, and validating IaC scripts to ensure that infrastructure deployments are consistent, scalable, and secure.
 - **TryHackMe Module**: Infrastructure as Code
 
