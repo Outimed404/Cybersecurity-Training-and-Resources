@@ -10,7 +10,7 @@ Explore the following courses to build your expertise in IaC:
 
 - **[Introduction to IaC](IntroToIac.md)**: Learn the basics of Infrastructure as Code, its principles, benefits, and how it is reshaping modern IT practices.  
 
-- **[On-Premise IaC](OnPremiseIaC.md)**: This document dives into implementing IaC for on-premise infrastructure, including tools, best practices, and security considerations.  
+- **[On-Premise IaC](OnPremisesIaC.md)**: This document dives into implementing IaC for on-premise infrastructure, including tools, best practices, and security considerations.  
 
 - **[Cloud-Based IaC](CloudBaseIaC.md)**: Discover how IaC is applied in cloud environments with a focus on tools like Terraform and AWS CloudFormation. Learn to secure, scale, and manage cloud-based resources effectively.  
 
